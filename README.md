@@ -44,7 +44,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 please use the following data structures for this project. don't forget to include them in your header file.
 
 
-"
+```
 /**
  * struct stack_s - doubly linked list representation of a stack (or queue)
  * @n: integer
@@ -60,4 +60,4 @@ typedef struct stack_s
         struct stack_s *prev;
         struct stack_s *next;
 } stack_t;
-"
+```
