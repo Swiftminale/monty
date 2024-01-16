@@ -79,7 +79,9 @@ typedef struct instruction_s
 
 # Compilation & Output
 - your code will be compiled this way:
-``` $ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty ```
+``` 
+$ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty 
+```
 - any output must be prited on stdout
 - any error message must be printed on stderr
--- Here is a link to a GitHub repository that could help you making sure your errors are printed on stderr
+	- Here is a link to a GitHub repository that could help you making sure your errors are printed on stderr
