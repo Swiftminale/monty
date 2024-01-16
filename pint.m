@@ -5,9 +5,9 @@
 #define STACK_SIZE 1000
 
 int stack[STACK_SIZE];
-int top = -1; // Initialize stack top
+int top = -1; 
 
-// Function to push an element onto the stack
+
 void push(int value) {
     if (top == STACK_SIZE - 1) {
         fprintf(stderr, "Error: Stack overflow\n");
@@ -17,7 +17,6 @@ void push(int value) {
     stack[++top] = value;
 }
 
-// Function to print all values on the stack
 void pall() {
     int i;
     for (i = top; i >= 0; i--) {
@@ -25,7 +24,6 @@ void pall() {
     }
 }
 
-// Function to print the value at the top of the stack
 void pint() {
     if (top == -1) {
         fprintf(stderr, "Error: can't pint, stack empty\n");
