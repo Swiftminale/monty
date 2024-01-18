@@ -1,5 +1,9 @@
 # File List
 - File name : "a" (this is used to automate git actions. you can use it to add, Commit, and push with a single comand [ ./a ] )
+- a           execute.c     main.c   monty.h.gch   print_string.c  README.md
+- add_node.c  functions1.c  monty    operators.c   push.c          rot.c
+- functions2.c  monty.h  print_char.c  queue.c         stack.c
+
 # Auther
 
 - Minale Fetene
