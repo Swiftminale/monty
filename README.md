@@ -1,5 +1,5 @@
 # File List
-- a (this is used to automate git actions. you can use it to add, Commit, and push with a single comand [ ./a ] )
+- File name : "a" (this is used to automate git actions. you can use it to add, Commit, and push with a single comand [ ./a ] )
 # Auther
 
 - Minale Fetene
