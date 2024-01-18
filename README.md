@@ -1,3 +1,5 @@
+# File List
+- a (this is used to automate git actions. you can use it to add, Commit, and push with a single comand [ ./a ] )
 # Auther
 
 - Minale Fetene
@@ -148,3 +150,9 @@ julien@ubuntu:~/monty$
 	- an erro occured
 - if you can't malloc anymore, print the error message Error: malloc failed, followed by a new line, and exit with status EXIT_FAILURE.
 - you have to use malloc and free and are not allowed to use any other function from man malloc(realloc, Calloc, ....)
+
+
+
+Files
+
+
